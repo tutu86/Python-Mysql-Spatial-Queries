@@ -9,9 +9,3 @@ spatial query with python
 
 for more documentation about Geopandas http://geopandas.org 
 
--main.py 
-  -connect_mysql_database.py  
-  -get_polygons_from_kml.py
-  -spatial_query.py
-  
- 
